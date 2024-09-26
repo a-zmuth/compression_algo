@@ -1,0 +1,10 @@
+[package]
+name = "compression_algo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+flate2 = "1.0"
+brotli = "6.0.0"        
+bzip2 = "0.4.4"         
+xz2 = "0.1.7"
